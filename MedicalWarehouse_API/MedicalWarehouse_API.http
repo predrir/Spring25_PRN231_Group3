@@ -1,0 +1,6 @@
+@MedicalWarehouse_API_HostAddress = http://localhost:5273
+
+GET {{MedicalWarehouse_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

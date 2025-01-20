@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MIRhZtxJD9DoT0G4nrOLv9TNUNzGIY5bupqzxsfomaI=",
+  "Source": "MedicalWarehouse_API",
+  "BasePath": "_content/MedicalWarehouse_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

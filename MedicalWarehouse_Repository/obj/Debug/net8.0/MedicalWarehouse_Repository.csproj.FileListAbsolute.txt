@@ -1,0 +1,15 @@
+D:\FPT\PRN231\MedicalWarehouse\MedicalWarehouse_Repository\bin\Debug\net8.0\MedicalWarehouse_Repository.deps.json
+D:\FPT\PRN231\MedicalWarehouse\MedicalWarehouse_Repository\bin\Debug\net8.0\MedicalWarehouse_Repository.dll
+D:\FPT\PRN231\MedicalWarehouse\MedicalWarehouse_Repository\bin\Debug\net8.0\MedicalWarehouse_Repository.pdb
+D:\FPT\PRN231\MedicalWarehouse\MedicalWarehouse_Repository\bin\Debug\net8.0\MedicalWarehouse_BusinessObject.dll
+D:\FPT\PRN231\MedicalWarehouse\MedicalWarehouse_Repository\bin\Debug\net8.0\MedicalWarehouse_BusinessObject.pdb
+D:\FPT\PRN231\MedicalWarehouse\MedicalWarehouse_Repository\obj\Debug\net8.0\MedicalWarehouse_Repository.csproj.AssemblyReference.cache
+D:\FPT\PRN231\MedicalWarehouse\MedicalWarehouse_Repository\obj\Debug\net8.0\MedicalWarehouse_Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\PRN231\MedicalWarehouse\MedicalWarehouse_Repository\obj\Debug\net8.0\MedicalWarehouse_Repository.AssemblyInfoInputs.cache
+D:\FPT\PRN231\MedicalWarehouse\MedicalWarehouse_Repository\obj\Debug\net8.0\MedicalWarehouse_Repository.AssemblyInfo.cs
+D:\FPT\PRN231\MedicalWarehouse\MedicalWarehouse_Repository\obj\Debug\net8.0\MedicalWarehouse_Repository.csproj.CoreCompileInputs.cache
+D:\FPT\PRN231\MedicalWarehouse\MedicalWarehouse_Repository\obj\Debug\net8.0\MedicalW.917398F4.Up2Date
+D:\FPT\PRN231\MedicalWarehouse\MedicalWarehouse_Repository\obj\Debug\net8.0\MedicalWarehouse_Repository.dll
+D:\FPT\PRN231\MedicalWarehouse\MedicalWarehouse_Repository\obj\Debug\net8.0\refint\MedicalWarehouse_Repository.dll
+D:\FPT\PRN231\MedicalWarehouse\MedicalWarehouse_Repository\obj\Debug\net8.0\MedicalWarehouse_Repository.pdb
+D:\FPT\PRN231\MedicalWarehouse\MedicalWarehouse_Repository\obj\Debug\net8.0\ref\MedicalWarehouse_Repository.dll
