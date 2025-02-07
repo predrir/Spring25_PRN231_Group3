@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_Services\\MedicalWarehouse_Services.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_Services\\MedicalWarehouse_Services.csproj": {}
   },
   "projects": {
-    "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_BusinessObject\\MedicalWarehouse_BusinessObject.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_BusinessObject\\MedicalWarehouse_BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_BusinessObject\\MedicalWarehouse_BusinessObject.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_BusinessObject\\MedicalWarehouse_BusinessObject.csproj",
         "projectName": "MedicalWarehouse_BusinessObject",
-        "projectPath": "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_BusinessObject\\MedicalWarehouse_BusinessObject.csproj",
-        "packagesPath": "C:\\Users\\thien.nguyen\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_BusinessObject\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_BusinessObject\\MedicalWarehouse_BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\thien.nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -87,21 +91,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_Repository\\MedicalWarehouse_Repository.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_Repository\\MedicalWarehouse_Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_Repository\\MedicalWarehouse_Repository.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_Repository\\MedicalWarehouse_Repository.csproj",
         "projectName": "MedicalWarehouse_Repository",
-        "projectPath": "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_Repository\\MedicalWarehouse_Repository.csproj",
-        "packagesPath": "C:\\Users\\thien.nguyen\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_Repository\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_Repository\\MedicalWarehouse_Repository.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_Repository\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\thien.nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -116,8 +124,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_BusinessObject\\MedicalWarehouse_BusinessObject.csproj": {
-                "projectPath": "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_BusinessObject\\MedicalWarehouse_BusinessObject.csproj"
+              "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_BusinessObject\\MedicalWarehouse_BusinessObject.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_BusinessObject\\MedicalWarehouse_BusinessObject.csproj"
               }
             }
           }
@@ -152,21 +160,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_Services\\MedicalWarehouse_Services.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_Services\\MedicalWarehouse_Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_Services\\MedicalWarehouse_Services.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_Services\\MedicalWarehouse_Services.csproj",
         "projectName": "MedicalWarehouse_Services",
-        "projectPath": "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_Services\\MedicalWarehouse_Services.csproj",
-        "packagesPath": "C:\\Users\\thien.nguyen\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_Services\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_Services\\MedicalWarehouse_Services.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\thien.nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -181,8 +193,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_Repository\\MedicalWarehouse_Repository.csproj": {
-                "projectPath": "D:\\FPT\\PRN231\\MedicalWarehouse\\MedicalWarehouse_Repository\\MedicalWarehouse_Repository.csproj"
+              "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_Repository\\MedicalWarehouse_Repository.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\Spring25_PRN231_Group3\\MedicalWarehouse_Repository\\MedicalWarehouse_Repository.csproj"
               }
             }
           }
@@ -223,7 +235,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
