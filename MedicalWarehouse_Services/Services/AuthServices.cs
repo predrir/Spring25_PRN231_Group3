@@ -32,6 +32,11 @@ namespace MedicalWarehouse_Services.Services
             _configuration = configuration;
         }
 
+        public Task<LoginResponse> Login(string username, string password)
+        {
+            throw new NotImplementedException();
+        }
+
         public async Task<LoginResponse> SeedRoles()
         {
             var isAdminRoleExists = await _roleManager.RoleExistsAsync(UserRoles.ADMIN);

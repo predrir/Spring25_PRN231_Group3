@@ -17,6 +17,6 @@ namespace MedicalWarehouse_Repository.Interface
     {
         Task AddAsync(T entity);  
         Task UpdateAsync(T entity);
-        Task<bool> DeleteAsync(T entity);
+        Task<bool> DeleteAsync(Guid id);
     }
 }
